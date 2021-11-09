@@ -1,4 +1,4 @@
-- ⚡ I’m currently as Lead of Google Developer Student Club Trunojoyo Madura University
+- ⚡ With my team, build awesome tech community in my campus
 - 🔭 I’m currently working in online-shopping company
 - 👯 I’m looking to collaborate with community
 - 💬 Ask me about Tech & Startup
