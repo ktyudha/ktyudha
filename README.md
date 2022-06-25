@@ -1,6 +1,6 @@
 - ⚡ With my team, build awesome tech community in my campus
-- 🔭 I’m currently working in grocery company as Front End Developer
-- 👯 I’m looking to collaborate with community
+- 🔭 I’m currently working as developer
+- 👯 Passionate about medical & education
 - 💬 Ask me about Tech & Startup
 - 📫 How to reach me: iniakunhuda@gmail.com
 
