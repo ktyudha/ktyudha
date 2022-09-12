@@ -19,7 +19,7 @@ How to reach me: collaboration or anything else: <a href="mailto:iniakunhuda@gma
 
 
 ## Top Lang
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iniakunhuda&langs_count=8&layout=compact&theme=omni&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iniakunhuda&langs_count=8&layout=compact&hide_border=true">
 
 
 
