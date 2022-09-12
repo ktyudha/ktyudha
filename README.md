@@ -1,8 +1,35 @@
+<h1 align='center'>Hi there 👋</h1>
+
+Hi, I'm Huda, an iOS Developer which focuses on SwiftUI and UIKit. Passionate about education and medical. With my team, build awesome community, Google Developer Student Clubs in my campus <a href="https://instagram.com/gdsc.trunojoyo">@gdsc.trunojoyo</a>
+
+Technical Experience: 
+- Mobile: SwiftUI, UIKit, CloudKit, CoreData
+- Javascript: Vue.js, Nuxt.js, Laravel, MySql, MongoDB/Mongoose, Redis
+- Others: Docker, Git
+
+How to reach me: collaboration or anything else: <a href="mailto:iniakunhuda@gmail.com">iniakunhuda@gmail.com</a> or <a href="">Linkedin</a>
+
+
+
+
+## Stats
+
+<img align ="right" src = "https://i.imgur.com/w4pKOQi.jpg" width="150" height="150">
+<img src="https://github-readme-stats.vercel.app/api?username=iniakunhuda">
+
+
+## Top Lang
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iniakunhuda&langs_count=8&layout=compact&theme=omni&hide_border=true">
+
+
+
+<!--
 - ⚡ With my team, build awesome tech community in my campus
 - 🔭 I’m currently working as frontend developer
 - 👯 Passionate about medical & education
 - 💬 Ask me about Tech & Startup
 - 📫 How to reach me: iniakunhuda@gmail.com
+
 
 ## GitHub Stats
 
@@ -16,7 +43,7 @@
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: |
 | ![Github Stars](https://github-readme-stats.vercel.app/api?username=iniakunhuda&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iniakunhuda&langs_count=8&theme=algolia&layout=compact) |
 
-
+-->
 
 
 <!--
