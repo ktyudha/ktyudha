@@ -4,8 +4,8 @@ Hi, I'm Huda, a student @ Apple Developer Academy 2022 as iOS Developer which fo
 
 Technical Experience: 
 - Mobile: SwiftUI, UIKit, CloudKit, CoreData
-- Javascript: Vue.js, Nuxt.js, Laravel, MySql, MongoDB/Mongoose, Redis
-- Others: Docker, Git
+- Web: Vue.js, Nuxt.js, Laravel, Go
+- Others: Docker, Git, MySql, MongoDB, Redis
 
 How to reach me: collaboration or anything else: <a href="mailto:iniakunhuda@gmail.com">iniakunhuda@gmail.com</a> or <a href="">Linkedin</a>
 
