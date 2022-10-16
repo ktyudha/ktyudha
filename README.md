@@ -1,6 +1,6 @@
 <h1 align='center'>Hi there 👋</h1>
 
-Hi, I'm Huda, an iOS Developer which focuses on SwiftUI and UIKit. Passionate about education and medical. With my team, build awesome community, Google Developer Student Clubs in my campus <a href="https://instagram.com/gdsc.trunojoyo">@gdsc.trunojoyo</a>
+Hi, I'm Huda, a student @ Apple Developer Academy 2022 as iOS Developer which focuses on SwiftUI and UIKit. Passionate about education and medical.
 
 Technical Experience: 
 - Mobile: SwiftUI, UIKit, CloudKit, CoreData
