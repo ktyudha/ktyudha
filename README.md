@@ -1,4 +1,5 @@
-<h1 align='center'>Hi there 👋</h1>
+<img src="https://media.licdn.com/dms/image/D5616AQHpucXMSV_Jag/profile-displaybackgroundimage-shrink_350_1400/0/1672703434068?e=1678320000&v=beta&t=SYBkiG_oNh8urla7cL5ze1TTlXxrud8E8UR6fwtT6Z8" />
+<hr/>
 
 Hi, I'm Huda, a student @ Apple Developer Academy 2022 as iOS Developer which focuses on SwiftUI and UIKit. Passionate about education and medical.
 
