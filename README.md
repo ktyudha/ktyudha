@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D5616AQHpucXMSV_Jag/profile-displaybackgroundimage-shrink_350_1400/0/1672703434068?e=1678320000&v=beta&t=SYBkiG_oNh8urla7cL5ze1TTlXxrud8E8UR6fwtT6Z8" />
+<img src="[https://media.licdn.com/dms/image/D5616AQHpucXMSV_Jag/profile-displaybackgroundimage-shrink_350_1400/0/1672703434068?e=1678320000&v=beta&t=SYBkiG_oNh8urla7cL5ze1TTlXxrud8E8UR6fwtT6Z8](https://www.apple.com/ac/structured-data/images/open_graph_logo.png?202209082218)" />
 
 Hi, I'm an iOS developer with over 1 year of experience, skilled in SwiftUI, UIKit, and various Apple technologies such as Core Data, CloudKit, MapKit, and MVVM. I have a strong foundation in iOS development and a passion for finding creative solutions to complex problems. As a team player with a dedication to detail, I am committed to delivering high-quality mobile apps that make a positive impact in the world. I am a graduate of the Apple Developer Academy 2022 @ Ciputra.
 
