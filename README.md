@@ -1,9 +1,7 @@
-Hi, I'm an iOS developer with over 1 year of experience, skilled in SwiftUI, UIKit, and various Apple technologies such as Core Data, CloudKit, MapKit, and MVVM. I have a strong foundation in iOS development and a passion for finding creative solutions to complex problems. As a team player with a dedication to detail, I am committed to delivering high-quality mobile apps that make a positive impact in the world. I am a graduate of the Apple Developer Academy 2022 @ Ciputra.
-
-In addition to my technical skills and experience, I am deeply committed to education and believe in the power of knowledge to transform lives. I am passionate about using my skills and expertise to develop innovative educational tools and resources that can help people of all ages learn and grow. Whether through developing educational apps or collaborating with educators and educational institutions, I am committed to making a positive contribution to the field of education and supporting the success of learners around the world.
+Hi, I'm an iOS developer with over 1 year of experience, skilled in SwiftUI, UIKit, and various Apple technologies such as Core Data, CloudKit, MapKit, and MVVM. I have a strong foundation in iOS development and a passion for finding creative solutions to complex problems. As a team player with a dedication to detail, I am committed to delivering high-quality mobile apps that make a positive impact in the world. I'm a graduate of the Apple Developer Academy 2022 @ Ciputra.
 
 Technical Experience: 
-- Mobile: SwiftUI, UIKit, CloudKit, CoreData
+- Mobile: Flutter, SwiftUI, UIKit, CloudKit, CoreData
 - Web: Vue.js, Nuxt.js, Laravel, Go
 - Others: Docker, Git, MySql, MongoDB, Redis
 
