@@ -7,7 +7,7 @@ Technical Experience:
 
 (How to reach me) 
 collaboration or anything else: 
-- <a href="https://miftahulhudaf.my.id">Website</a>
+- <a href="https://iniakunhuda.com">Website</a>
 - <a href="https://www.linkedin.com/in/iniakunhuda/">Linkedin</a>
 - <a href="mailto:iniakunhuda@gmail.com">Email</a>  
 
