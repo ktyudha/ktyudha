@@ -15,7 +15,7 @@ collaboration or anything else:
 
 ## Stats
 
-<img align ="right" src = "https://i.imgur.com/w4pKOQi.jpg" width="150" height="150">
+<!-- <img align ="right" src = "https://i.imgur.com/w4pKOQi.jpg" width="150" height="150"> -->
 <img src="https://github-readme-stats.vercel.app/api?username=ktyudha">
 
 ## Top Lang
