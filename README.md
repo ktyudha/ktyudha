@@ -2,8 +2,8 @@ Hi, I'm a web developer with a strong background in creating dynamic and efficie
 
 Technical Experience:
 
-- Mobile: Java,
-- Web: Vue.js, React.js, Laravel
+- Mobile: Java, Flutter
+- Web: Vue.js, React.js, Laravel, ExpressJS
 - Others: Docker, Git, MySql, MongoDB, Firebase, Socket IO
 
 (How to reach me)
